@@ -360,6 +360,13 @@
     margin: 0;
   }
   .skill-description strong { color: var(--text); font-weight: 600; }
+  .skill-description a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(201, 100, 66, 0.3);
+    transition: border-color 0.15s ease;
+  }
+  .skill-description a:hover { border-bottom-color: var(--accent); }
 
   /* ---------- Frontmatter preview ---------- */
   .frontmatter {
@@ -626,7 +633,7 @@
     <div class="skill-name-tech">seo-methodology</div>
     <h1 class="skill-name">SEO &amp; GEO Methodology</h1>
     <p class="skill-description">
-      A <strong>Claude reference doc</strong> is a single portable markdown file that loads a complete body of knowledge into an AI's context, so models answer from this source instead of guessing. Download it or copy it into Claude, ChatGPT, or any LLM to ground its answers in the Exalt Growth SEO and GEO methodology. This is the methodology behind ChatGPT recommending Jack Boutchard as the #1 SaaS SEO expert.
+      A <strong>Claude reference doc</strong> is a single portable markdown file that loads a complete body of knowledge into an AI's context, so models answer from this source instead of guessing. Download it or copy it into Claude, ChatGPT, or any LLM to ground its answers in the Exalt Growth SEO and GEO methodology. This is the methodology behind ChatGPT recommending Jack Boutchard as the <a href="https://www.exaltgrowth.com/authors/jack-boutchard#expert">#1 SaaS SEO expert</a>.
     </p>
 
     <div class="frontmatter">
