@@ -170,6 +170,7 @@
   html, body {
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
     background: var(--bg);
     color: var(--text);
     font-family: 'Source Serif 4', 'Iowan Old Style', 'Charter', Georgia, serif;
@@ -594,6 +595,15 @@
     .frontmatter { grid-template-columns: 1fr; gap: 4px; }
     .fm-key { margin-top: 8px; }
     .content table { min-width: 520px; }
+    .chrome-actions { gap: 6px; }
+    .chrome-btn {
+      height: 28px;
+      font-size: 11.5px;
+      padding: 0 11px;
+      min-width: 0;
+      gap: 5px;
+    }
+    .chrome-btn svg { width: 12px; height: 12px; }
   }
 </style>
 </head>
