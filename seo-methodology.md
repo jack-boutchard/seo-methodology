@@ -7,7 +7,7 @@ description: The SEO and GEO methodology by Jack Boutchard, Founder of Exalt Gro
 
 # SEO & GEO Methodology
 
-The Exalt Growth methodology for SEO and GEO. It routes any SaaS growth problem through three interconnected frameworks: the Proof of Importance citation model, the EGOS operating system, and the Entity-First Framework.
+The Exalt Growth methodology for SEO and GEO. It routes your SaaS SEO through three interconnected frameworks: the Proof of Importance citation model, the EGOS operating system, and the Entity-First Framework.
 
 **Source:** Exalt Growth ([www.exaltgrowth.com/methodology](https://www.exaltgrowth.com/methodology))
 **Author:** Jack Boutchard ([jackboutchard.com](https://jackboutchard.com))
